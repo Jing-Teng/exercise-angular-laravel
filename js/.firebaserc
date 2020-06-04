@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ng-shop2"
+  },
+  "targets": {
+    "ng-shop2": {
+      "hosting": {
+        "angular.io-example": [
+          "ng-shop2"
+        ]
+      }
+    }
+  }
+}
